@@ -13,7 +13,6 @@ This project demonstrates a **full-stack microservices architecture** deployed w
 
 The goal is to showcase **containerization, internal service communication, and Kubernetes orchestration** for microservices.
 
-This is a **learning/portfolio project**, not a production application, but it mirrors real-world patterns used in microservices deployments.
 
 ---
 
